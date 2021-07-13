@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vanessark8@gmail.com
+	name = Vanessa Risolia
